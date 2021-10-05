@@ -1,0 +1,68 @@
+.logos {
+    width: 20%;
+    
+    
+}
+
+
+.contato {
+
+    
+} 
+.habilidade {
+position: relative;
+text-align: left;
+
+}
+.hello{
+    margin: auto;
+    width: 300px ;
+    height: 400px;
+    overflow: hidden;
+    
+}
+.perfil {
+text-align: center;
+display: block;
+
+
+} 
+a {
+    padding-left: 600px;
+
+}
+
+
+body {
+    font-family: 'Gemunu Libre', sans-serif;
+    background-image: linear-gradient(#FF0075, #172774, #77D970) 
+    
+    
+}
+
+h2 {
+font-size: 40px;
+color: #172774
+
+}
+       h1 {
+    font-size: 56px;
+    color: #77D970; 
+    text-align: center; 
+    
+       }
+
+     h3 {
+        font-size: 36px;
+    color: #EEEEEE;
+     }  
+
+       .descricao {
+           
+        font-family:'Roboto Mono' ;
+        font-size: 17px;
+color:#EEEEEE ;
+
+
+       }
+      
