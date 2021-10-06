@@ -6,8 +6,10 @@
 
 .navegacao {
     width: 100%;
-    display: inline;
-    text-align: center;
+    display: inline-block;
+    text-align: center;,
+    border-color: solid #172774 1px;
+    
     
 }
 
